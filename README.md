@@ -18,7 +18,7 @@ Asi mismo las tareas se definiran, realizaran y terminaran de acuerdo a los prin
 - Liderazago en todos los niveles
 - Calidad garantizada
 
-##Tablero Kanban
+## Tablero Kanban
 
 Acceso al Tablero [Kanban](https://github.com/users/Angel123Lara/projects/1/views/1) definido con la herramienta en GITHUB.
 
