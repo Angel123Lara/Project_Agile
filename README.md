@@ -220,7 +220,7 @@ se deja evidencia de lo realizado en el repositorio
 
 ![Terraform apply]((/src/imgs/Sesion06/terraformapply))
 
-![microservicios]((/src/imgs/Sesion06/contenedormicroservicios)
+![microservicios](/src/imgs/Sesion06/contenedormicroservicios)
 
  
  
