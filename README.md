@@ -212,13 +212,17 @@ se deja evidencia de lo realizado en el repositorio
   
 ### Primer despliegue desde terraform
 
+#### despligue en el navegador
 ![Despligue browser](/src/imgs/Sesion06/despliguebrowser.jpg)
 
-![Comandodespliegue](/src/imgs/Sesion06/comandosdespligue.jpg)
+#### uso del terraform init
 
 ![Terraform init](/src/imgs/Sesion06/terraform_init.jpg)
 
+#### uso del terraform apply
 ![Terraform apply](/src/imgs/Sesion06/terraformapply.jpg)
+
+#### contenedor creado visto desde la aplicacion del Docker
 
 ![microservicios](/src/imgs/Sesion06/contenedormicroservicios.jpg)
 
