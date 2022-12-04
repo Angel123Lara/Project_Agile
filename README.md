@@ -5,6 +5,7 @@
 ### - [Postwork Sesion 01](#postwork-sesion-01)
 ### - [Postwork Sesion 02](#postwork-sesion-02)
 ### - [Postwork Sesion 03](#postwork-sesion-03)
+### - [Postwork Sesion 04](#postwork-sesion-04)
 
 
 
@@ -101,4 +102,63 @@ En el desarrollo del proyecto se buscara tener los siguientes aspectos principal
 En el siguiente link se encuentra el repositorio del postwork de la sesión 03
 
 [Repositorio Java con Test NG](https://github.com/Angel123Lara/HSBC_Sesion03/tree/master)
+
+##  Postwork Sesion 04
+
+El postwork de la sesion 04 se realizó con la herramienta de Docker a traves de la terminal siguiendo las insutrucciones se logro completar el postwork generando los siguientes entregables:
+
+#### Ultima versión del Docker instalada
+
+![Imagen version Docker](/src/imgs/Sesion04/VersionDocker.jpg)
+version docker
+
+#### Comando básicos Docker
+
+```
+Docker pull <nombre_imagen>
+```
+Con este comando descargamos de un repositorio la imagen que deseamos, tambien podemos especificar que versión de la imagen deseamos en dado caso que existan varias versiones.
+
+```
+Docker images
+```
+Nos muestra en terminal la información detallada de las imagenes que tenemos en nuestro sistema.
+
+```
+Docker run -d --name <imagen> -p <puerto>:<puerto> <nombre que definimos>
+```
+Ejecuta una instancia de la imagen Docker, es importante declara el puerto con el que trabajara esta imagen para poder comunicarnos con dicha imagen.
+En este comando especificamos la imagen que vamos a instanciar y el nombre con el que queremos identificarlo
+
+```
+Docker ps
+```
+Muestra en pantalla los contenedores en ejecución.
+
+```
+Docker exec -it <CONTAINER> bash
+```
+Accede a la terminal del contenedor esto nos ayuda a ejecurar comandos desde el interior del contenedor.
+
+```
+Docker start <CONTAINER>
+```
+inicia un contendedor para comprobar que el contenedor arranco correctamente puedes usar el comando *Docker ps*
+
+#### Servidor de aplicaciones
+
+![Servidor de aplicaciones](/src/imgs/Sesion04/ImagenDocker_httpd.jpg)
+
+#### Modicación de página principal
+
+![Pagina de inicio modificada](/src/imgs/Sesion04/PaginaModificada.jpg)
+
+##### Feedback de postwork 04
+
+Al realizar este postwork me ayudo a familiarse mas con Docker y sus comandos, asi como entender mas su funcionamiento y aplicación
+
+
+
+
+
 
