@@ -180,8 +180,49 @@ se deja evidencia de lo realizado en el repositorio
  #### -- Pull request
  ![Pull request](/src/imgs/Sesion05/evidenciaPullrequest.jpg)
  
- ### -- Buena práctica eliminar branch de pull request
+ #### -- Buena práctica eliminar branch de pull request
  ![BuenaPractica](/src/imgs/Sesion05/branchMainonly.jpg)
+ 
+ ## - [Postwork Sesion 06](#postwork-sesion-06)
+ 
+ En el siguiente link se encuentra el repositorio que se creo con las actividades del postwork 06
+ 
+ [Repositorio Sesion 06](https://github.com/Angel123Lara/Sesion06_BEDU_HSBC)
+ 
+ #### Terraform instalado
+ 
+ ![Terraform version]((src/imgs/Sesion06)
+ 
+ #### Comandos basicos de terraform
+ 
+ ##### terraform –version
+      se utiliza para checar que la version de terraform y darnos cuenta que tenemos instalado terraform en nuestra computadora
+      
+##### Terraform init
+    Se utiliza para iniciar un proyecto de terraform
+    
+##### terraform plan
+    Crea un plan de ejecucion pero no lo ejecuta determina las acciones necesarias para crear la configuracion especificada.
+
+#### terraform apply
+  se utiliza para aplicar los cambios necesarios para alcanzar el estado deseado de la configuración, o el conjunto predefinido de acciones generado por un plan ejecución.
+
+#### terraform destroy
+  Es capaz de eliminar toda la infraestructura con base en la configuración.
+  
+### Primer despliegue desde terraform
+
+![Despligue browser](/src/imgs/Sesion06/despliguebrowser)
+
+![Comandodespliegue](/src/imgs/Sesion06/comandosdespligue)
+
+![Terraform init](/src/imgs/Sesion06/terraform_init)
+
+![Terraform apply]((/src/imgs/Sesion06/terraformapply))
+
+![microservicios]((/src/imgs/Sesion06/contenedormicroservicios)
+
+ 
  
 
 
