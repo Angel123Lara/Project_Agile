@@ -13,7 +13,7 @@
 
 ## Postwork Sesion 01
 
-### Descripción
+### -- Descripción
 El proyecto en este repositorio es el desarrollo de las actividades de postworks que se encuentran en la plataforma de Bedu relacionadas con el curso de HSBC, al cual me encuentro inscrito.
 
 Ls actividades realizadas corresponden a la primera fase del curso, el cual me permitira alcanzar el nivel de Senior Enginnering Java.
@@ -36,13 +36,13 @@ Asi mismo las tareas se definiran, realizaran y terminaran de acuerdo a los prin
 - Liderazago en todos los niveles
 - Calidad garantizada
 
-## Tablero Kanban
+## -- Tablero Kanban
 
 Acceso al Tablero [Kanban](https://github.com/users/Angel123Lara/projects/1/views/1) definido con la herramienta en GITHUB.
 
 
 ## Postwork Sesion 02
-### Fundamentos de Scrum
+### -- Fundamentos de Scrum
 
 En el entregable de esta sesion se realizara analizando los fundamentos de Scrum y como se aplicaran sobre nuestro proyecto en curso.
 
@@ -55,7 +55,7 @@ En Scrum tenemos herramientas llamadas ceremonias las cuales se describen a cont
 
 - Retrospective -. En esta parte de trata de analizar todos los problemas que se presentaron durante el sprint y se negocia con las partes interesadas para evitar que en los proximos sprint no existan tantos contratiempos.
 
-### Roles Centrales
+### -- Roles Centrales
 
 - Product Owner -. Es aquella persona que sabe sobre el area del proyecto y es quien realiza los requirimientos y validaciones sobre el proyecto.
 
@@ -63,7 +63,7 @@ En Scrum tenemos herramientas llamadas ceremonias las cuales se describen a cont
 
 Referente a nuestro proyecto solo contaremos con la figura principal de Scrum developer debido a que es un proyecto personal.
 
-### Valores SCRUM
+### -- Valores SCRUM
 
 Los valores en SCRUM son 5 pero de los cuales en nuestro proyecto aplicaremos los siguientes debido a la naturaleza del mismo.
 
@@ -71,7 +71,7 @@ Los valores en SCRUM son 5 pero de los cuales en nuestro proyecto aplicaremos lo
 
 Compromiso: Las personas se comprometen personalmente a alcanzar los objetivos del equipo de desarrollo.
 
-### Principios SCRUM
+### -- Principios SCRUM
 
 Los principios SCRUM que mas identifico en mi proyecto son los siguientes:
 
@@ -87,7 +87,7 @@ porque se buscara de manera ordenada la meta final para la entrega del proyecto 
 ¿Por que?
 porque a lo largo del desarrollo de cada entregable se prioriza los cuales se necesite mas enfoque para lograr el objetivo, asi como buscar la priorización de las tareas.
 
-### Aspectos
+### -- Aspectos
 
 En el desarrollo del proyecto se buscara tener los siguientes aspectos principalmente.
 
@@ -108,12 +108,12 @@ En el siguiente link se encuentra el repositorio del postwork de la sesión 03
 
 El postwork de la sesion 04 se realizó con la herramienta de Docker a traves de la terminal siguiendo las insutrucciones se logro completar el postwork generando los siguientes entregables:
 
-#### Ultima versión del Docker instalada
+#### -- Ultima versión del Docker instalada
 
 ![Imagen version Docker](/src/imgs/Sesion04/VersionDocker.jpg)
 version docker
 
-#### Comando básicos Docker
+#### -- Comando básicos Docker
 
 ```
 Docker pull <nombre_imagen>
@@ -146,15 +146,15 @@ Docker start <CONTAINER>
 ```
 inicia un contendedor para comprobar que el contenedor arranco correctamente puedes usar el comando *Docker ps*
 
-#### Servidor de aplicaciones
+#### -- Servidor de aplicaciones
 
 ![Servidor de aplicaciones](/src/imgs/Sesion04/ImagenDocker_httpd.jpg)
 
-#### Modicación de página principal
+#### -- Modicación de página principal
 
 ![Pagina de inicio modificada](/src/imgs/Sesion04/PaginaModificada.jpg)
 
-##### Feedback de postwork 04
+##### -- Feedback de postwork 04
 
 Al realizar este postwork me ayudo a familiarse mas con Docker y sus comandos, asi como entender mas su funcionamiento y aplicación
 
@@ -165,6 +165,26 @@ Para la realización del postwork se creo un repositorio nuevo al cual podemos a
 [Repositorio DevOpsBeduReto02](https://github.com/Angel123Lara/DevOpsBeduReto02)
 
 se deja evidencia de lo realizado en el repositorio
+
+#### -- Creacion repositorio
+
+![Repositorio nuevo](/src/imgs/Sesion05/Creando_repo.jpg)
+
+#### -- Repositorio creado
+
+![Repositorio creado](/src/imgs/Sesion05/repo_creado.jpg)
+ 
+ #### -- Branch en repositorio local
+ ![Branch](/src/imgs/Sesion05/inciso_a.jpg)
+ 
+ #### -- Pull request
+ ![Pull request](/src/imgs/Sesion05/evidenciaPullrequest.jpg)
+ 
+ ### -- Buena práctica eliminar branch de pull request
+ ![BuenaPractica](/src/imgs/Sesion05/branchMainonly.jpg)
+ 
+
+
 
 
 
