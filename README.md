@@ -93,3 +93,11 @@ En el desarrollo del proyecto se buscara tener los siguientes aspectos principal
 - Calidad. Es la capacidad del producto o los entregables de cumplir con los criterios de aceptación
 
 - Riesgo. El riesgo se define como un evento o conjunto de eventos inciertos que pueden afectar los objetivos de un proyecto y pueden contribuir a su éxito o fracaso.
+
+
+## Postwork Sesion 03
+
+En el siguiente link se encuentra el repositorio del postwork de la sesión 03
+
+[Repositorio Java con Test NG](https://github.com/Angel123Lara/HSBC_Sesion03/tree/master)
+
