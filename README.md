@@ -191,7 +191,7 @@ se deja evidencia de lo realizado en el repositorio
  
  #### Terraform instalado
  
- ![Terraform version]((src/imgs/Sesion06)
+ ![Terraform version]((src/imgs/Sesion06/terraform version.jpg)
  
  #### Comandos basicos de terraform
  
@@ -212,15 +212,15 @@ se deja evidencia de lo realizado en el repositorio
   
 ### Primer despliegue desde terraform
 
-![Despligue browser](/src/imgs/Sesion06/despliguebrowser)
+![Despligue browser](/src/imgs/Sesion06/despliguebrowser.jpg)
 
-![Comandodespliegue](/src/imgs/Sesion06/comandosdespligue)
+![Comandodespliegue](/src/imgs/Sesion06/comandosdespligue.jpg)
 
-![Terraform init](/src/imgs/Sesion06/terraform_init)
+![Terraform init](/src/imgs/Sesion06/terraform_init.jpg)
 
-![Terraform apply]((/src/imgs/Sesion06/terraformapply))
+![Terraform apply](/src/imgs/Sesion06/terraformapply.jpg)
 
-![microservicios](/src/imgs/Sesion06/contenedormicroservicios)
+![microservicios](/src/imgs/Sesion06/contenedormicroservicios.jpg)
 
  
  
