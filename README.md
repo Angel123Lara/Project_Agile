@@ -6,6 +6,7 @@
 ### - [Postwork Sesion 02](#postwork-sesion-02)
 ### - [Postwork Sesion 03](#postwork-sesion-03)
 ### - [Postwork Sesion 04](#postwork-sesion-04)
+### - [Postwork Sesion 05](#postwork-sesion-05)
 
 
 
@@ -157,6 +158,13 @@ inicia un contendedor para comprobar que el contenedor arranco correctamente pue
 
 Al realizar este postwork me ayudo a familiarse mas con Docker y sus comandos, asi como entender mas su funcionamiento y aplicación
 
+##  Postwork Sesion 05
+
+Para la realización del postwork se creo un repositorio nuevo al cual podemos acceder con el siguiente link
+
+[Repositorio DevOpsBeduReto02](https://github.com/Angel123Lara/DevOpsBeduReto02)
+
+se deja evidencia de lo realizado en el repositorio
 
 
 
