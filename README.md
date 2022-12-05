@@ -7,6 +7,8 @@
 ### - [Postwork Sesion 03](#postwork-sesion-03)
 ### - [Postwork Sesion 04](#postwork-sesion-04)
 ### - [Postwork Sesion 05](#postwork-sesion-05)
+### - [Postwork Sesion 06](#postwork-sesion-06)
+### - [Postwork petclinic](#postwork-petclinic)
 
 
 
@@ -225,6 +227,18 @@ se deja evidencia de lo realizado en el repositorio
 #### contenedor creado visto desde la aplicacion del Docker
 
 ![microservicios](/src/imgs/Sesion06/contenedormicroservicios.jpg)
+
+## pet clinic
+
+en el siguiente link se encuentra el repositorio de petclinic
+
+[Repositorio petclinic personal](https://github.com/Angel123Lara/PetClinic)
+
+#### Jenkins falla 
+![fallajenkins](/src/imgs/petclinic/jenkinsfalla.jpg)
+
+#### avances en jenkins con petclinic
+![stagejenkins](/src/imgs/petclinic/petclinicstage.jpg)
 
  
  
