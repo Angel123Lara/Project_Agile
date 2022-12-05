@@ -191,7 +191,7 @@ se deja evidencia de lo realizado en el repositorio
  
  #### Terraform instalado
  
- ![Terraform version]((src/imgs/Sesion06)
+ ![Terraform version]((src/imgs/Sesion06/terraform version.jpg)
  
  #### Comandos basicos de terraform
  
@@ -212,15 +212,19 @@ se deja evidencia de lo realizado en el repositorio
   
 ### Primer despliegue desde terraform
 
-![Despligue browser](/src/imgs/Sesion06/despliguebrowser)
+#### despligue en el navegador
+![Despligue browser](/src/imgs/Sesion06/despliguebrowser.jpg)
 
-![Comandodespliegue](/src/imgs/Sesion06/comandosdespligue)
+#### uso del terraform init
 
-![Terraform init](/src/imgs/Sesion06/terraform_init)
+![Terraform init](/src/imgs/Sesion06/terraform_init.jpg)
 
-![Terraform apply]((/src/imgs/Sesion06/terraformapply))
+#### uso del terraform apply
+![Terraform apply](/src/imgs/Sesion06/terraformapply.jpg)
 
-![microservicios](/src/imgs/Sesion06/contenedormicroservicios)
+#### contenedor creado visto desde la aplicacion del Docker
+
+![microservicios](/src/imgs/Sesion06/contenedormicroservicios.jpg)
 
  
  
