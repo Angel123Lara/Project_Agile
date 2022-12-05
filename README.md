@@ -8,7 +8,7 @@
 ### - [Postwork Sesion 04](#postwork-sesion-04)
 ### - [Postwork Sesion 05](#postwork-sesion-05)
 ### - [Postwork Sesion 06](#postwork-sesion-06)
-### - [Postwork petclinic](#postwork-petclinic)
+### - [Postwork petclinic](#pet-clinic)
 
 
 
@@ -235,10 +235,10 @@ en el siguiente link se encuentra el repositorio de petclinic
 [Repositorio petclinic personal](https://github.com/Angel123Lara/PetClinic)
 
 #### Jenkins falla 
-![fallajenkins](/src/imgs/petclinic/jenkinsfalla.jpg)
+![fallajenkins](/src/imgs/Petclinic/jenkinsfalla.jpg)
 
 #### avances en jenkins con petclinic
-![stagejenkins](/src/imgs/petclinic/petclinicstage.jpg)
+![stagejenkins](/src/imgs/Petclinic/petclinicstage.jpg)
 
  
  
